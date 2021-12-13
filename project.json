@@ -1,0 +1,24 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "🌈Picture resolution:2K\n🎈Clock position removable\n🚫Hide the clock display by clicking \"C\" in the upper right corner",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.7529411764705882 0.7529411764705882 0.7529411764705882"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Girls" ],
+	"title" : "✨厚塗 2K✨",
+	"type" : "web",
+	"version" : 0,
+	"visibility" : "public"
+}
